@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612831672403",
+    "project_id": "dawn-market-fcm",
+    "storage_bucket": "dawn-market-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612831672403:android:387a5409c942ae424a6ea6",
+        "android_client_info": {
+          "package_name": "com.timfresh.dawnMarketPublic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612831672403-849r2q7mopr1f1bnj0m6b7h7lgprnjva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA651pXo17Z68euf_Tcq2D3xnu5yUqYtRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612831672403-849r2q7mopr1f1bnj0m6b7h7lgprnjva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
